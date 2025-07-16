@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, Card, ProgressBar } from 'react-bootstrap';
+import { Container, Row, Col, Card } from 'react-bootstrap';
 import { 
   FaCode, FaLaptopCode, FaServer, FaDatabase, FaTools, 
   FaBrain, FaUsers, FaReact, FaNodeJs, FaPython, FaJs, 

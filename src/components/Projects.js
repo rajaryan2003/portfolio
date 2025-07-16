@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Card, Badge } from 'react-bootstrap';
 import { FaGithub, FaExternalLinkAlt, FaReact, FaNodeJs, FaDatabase, FaCode } from 'react-icons/fa';
-import { SiRedux, SiTypescript, SiMongodb, SiExpress, SiBootstrap } from 'react-icons/si';
+import { SiRedux, SiTypescript, SiExpress, SiBootstrap } from 'react-icons/si';
 import './Projects.css';
 
 const Projects = () => {

@@ -96,7 +96,7 @@ const Contact = () => {
                   <a href="https://linkedin.com/in/raj-aryan-1b17732ab" target="_blank" rel="noopener noreferrer" className="social-icon">
                     <FaLinkedin />
                   </a>
-                  <a href="#" className="social-icon">
+                  <a href="https://twitter.com/rajaryan2003" target="_blank" rel="noopener noreferrer" className="social-icon">
                     <FaTwitter />
                   </a>
                   <a href="mailto:rajaryanfront@gmail.com" className="social-icon">
