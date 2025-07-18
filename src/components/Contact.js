@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col, Card, Form, Button } from 'react-bootstrap';
 import { 
   FaEnvelope, FaPhone, FaLinkedin, FaGithub, FaTwitter, 
-  FaMapMarkerAlt, FaPaperPlane, FaUser, FaComments 
+  FaPaperPlane, FaUser, FaComments 
 } from 'react-icons/fa';
 import './Contact.css';
 

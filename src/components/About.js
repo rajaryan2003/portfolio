@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
-import { FaCode, FaLaptopCode, FaDatabase, FaTools, FaGraduationCap } from 'react-icons/fa';
+import { FaCode, FaLaptopCode, FaDatabase, FaTools } from 'react-icons/fa';
 import './About.css';
 
 const About = () => {
